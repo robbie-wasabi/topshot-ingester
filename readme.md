@@ -1,2 +1,2 @@
-to run:
-`go run main.go`
+# topshot-ingester
+messin around with the flow blockchain; querying Topshot events
